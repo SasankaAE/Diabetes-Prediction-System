@@ -2,6 +2,12 @@
 
 A lightweight Streamlit app that loads a trained machine-learning model from `model.pkl` and predicts whether a user is diabetic based on two inputs: glucose level and BMI.
 
+## Project Architecture
+
+```bash
+Dataset → Preprocessing → Model Training → Prediction → User Interface
+```
+
 ## Features
 
 - Simple Streamlit interface
