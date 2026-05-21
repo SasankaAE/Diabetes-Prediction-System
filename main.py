@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 
-model = pickle.load(open("model.pkl", "rb"))
+model = pickle.load(open("diabetes-predict-model.pkl", "rb"))
 
 st.title("Diabetes Prediction System")
 
