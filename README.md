@@ -8,6 +8,10 @@ A lightweight Streamlit app that loads a trained machine-learning model from `mo
 Dataset → Preprocessing → Model Training → Prediction → User Interface
 ```
 
+## Get Model
+
+[Click here to view model in Colab](https://colab.research.google.com/drive/1ByRUrmMRI3yK3tlmVCa42WfDvPsAyxHx#scrollTo=T_99K-qsxoLC)
+
 ## Features
 
 - Simple Streamlit interface
